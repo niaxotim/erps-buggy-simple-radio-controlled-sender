@@ -1,7 +1,7 @@
 ### @activities true
 ### @explicitHints true
 
-# ERPS STEM WEEK :: Motorised Buggy - Radio Controlled Simple Movement
+# ERPS STEM WEEK :: Motorised Buggy - Simple Radio
 
 ## Introduction
 ### Introduction Step @unplugged
